@@ -1,0 +1,15 @@
+C:\Users\Home\Documents\תרגיל בית הדסים\Exercise1Twitter\Exercise1Twitter\bin\Debug\net6.0\Exercise1Twitter.exe
+C:\Users\Home\Documents\תרגיל בית הדסים\Exercise1Twitter\Exercise1Twitter\bin\Debug\net6.0\Exercise1Twitter.deps.json
+C:\Users\Home\Documents\תרגיל בית הדסים\Exercise1Twitter\Exercise1Twitter\bin\Debug\net6.0\Exercise1Twitter.runtimeconfig.json
+C:\Users\Home\Documents\תרגיל בית הדסים\Exercise1Twitter\Exercise1Twitter\bin\Debug\net6.0\Exercise1Twitter.dll
+C:\Users\Home\Documents\תרגיל בית הדסים\Exercise1Twitter\Exercise1Twitter\bin\Debug\net6.0\Exercise1Twitter.pdb
+C:\Users\Home\Documents\תרגיל בית הדסים\Exercise1Twitter\Exercise1Twitter\obj\Debug\net6.0\Exercise1Twitter.csproj.AssemblyReference.cache
+C:\Users\Home\Documents\תרגיל בית הדסים\Exercise1Twitter\Exercise1Twitter\obj\Debug\net6.0\Exercise1Twitter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Documents\תרגיל בית הדסים\Exercise1Twitter\Exercise1Twitter\obj\Debug\net6.0\Exercise1Twitter.AssemblyInfoInputs.cache
+C:\Users\Home\Documents\תרגיל בית הדסים\Exercise1Twitter\Exercise1Twitter\obj\Debug\net6.0\Exercise1Twitter.AssemblyInfo.cs
+C:\Users\Home\Documents\תרגיל בית הדסים\Exercise1Twitter\Exercise1Twitter\obj\Debug\net6.0\Exercise1Twitter.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\תרגיל בית הדסים\Exercise1Twitter\Exercise1Twitter\obj\Debug\net6.0\Exercise1Twitter.dll
+C:\Users\Home\Documents\תרגיל בית הדסים\Exercise1Twitter\Exercise1Twitter\obj\Debug\net6.0\refint\Exercise1Twitter.dll
+C:\Users\Home\Documents\תרגיל בית הדסים\Exercise1Twitter\Exercise1Twitter\obj\Debug\net6.0\Exercise1Twitter.pdb
+C:\Users\Home\Documents\תרגיל בית הדסים\Exercise1Twitter\Exercise1Twitter\obj\Debug\net6.0\Exercise1Twitter.genruntimeconfig.cache
+C:\Users\Home\Documents\תרגיל בית הדסים\Exercise1Twitter\Exercise1Twitter\obj\Debug\net6.0\ref\Exercise1Twitter.dll
